@@ -1,0 +1,293 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\btcom.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_ad_conv.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_agenda.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_bluetooth.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_I2C_master_module.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_I2C_protocol.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_init_port.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File007]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_init_uart1.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File008]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_init_uart2.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File009]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_led.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File010]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_motors.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File011]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_prox.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File012]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_randb.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File013]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_remote_control.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File014]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_uart1_rx_char.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File015]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_uart1_tx_char.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File016]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_uart2_rx_char.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File017]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\e_uart2_tx_char.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File018]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\main.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File019]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\utility.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File020]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\Lab1.cof
+Folder=Output
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=--heap=512 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File021]
+Location=E:\epuck\tutorial\Lab 1 - Code\Lab 1 - Code\Lab1.hex
+Folder=Output
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|D:\epuck\Libraries||$(INCDIR)|D:\epuck\Libraries||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|btcom.c|e_ad_conv.c|e_agenda.c|e_bluetooth.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_init_uart1.s|e_init_uart2.s|e_led.c|e_motors.c|e_prox.c|e_randb.c|e_remote_control.c|e_uart1_rx_char.s|e_uart1_tx_char.s|e_uart2_rx_char.s|e_uart2_tx_char.s|main.c|utility.c||<obj>||<lib>||<lkr>|D:\Program Files (x86)\Microchip\mplabc30\v3.30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=--heap=512 -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{DE18EB1A-B46B-486B-B96F-A811A635DFAC}=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-as.exe
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=D:\Program Files (x86)\Microchip\mplabc30\v3.30\bin\pic30-ld.exe

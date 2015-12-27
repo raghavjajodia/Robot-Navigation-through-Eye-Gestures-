@@ -1,0 +1,28 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly eyeLike_clr, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class PortChat: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Main(): PrivateScope, Public, Static, HideBySig
+    close(): PrivateScope, Public, Static, HideBySig
+    write(SByte IsSignUnspecifiedByte): PrivateScope, Public, Static, HideBySig
+    Read(): PrivateScope, Public, Static, HideBySig
+    SetPortName(String): PrivateScope, Public, Static, HideBySig
+    SetPortBaudRate(Int32): PrivateScope, Public, Static, HideBySig
+    SetPortParity(Parity): PrivateScope, Public, Static, HideBySig
+    SetPortDataBits(Int32): PrivateScope, Public, Static, HideBySig
+    SetPortStopBits(StopBits): PrivateScope, Public, Static, HideBySig
+    SetPortHandshake(Handshake): PrivateScope, Public, Static, HideBySig
